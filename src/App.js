@@ -6,7 +6,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <h1>Deployed to Azure</h1>
+        <h1>Deployed to Azure and linked from Git</h1>
       </div>
     );
   }
